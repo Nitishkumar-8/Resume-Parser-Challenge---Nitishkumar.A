@@ -10,7 +10,8 @@ This project is a resume parsing system developed for the **Neurabit Take-Home C
   - Full Name  
   - Email  
   - Phone Number  
-  - LinkedIn URL  
+  - LinkedIn URL
+  - GitHub URL
   - Skills (list)  
   - Education (degree, institution, start–end year)  
   - Certifications  
@@ -75,6 +76,11 @@ This project is a resume parsing system developed for the **Neurabit Take-Home C
   
   "linkedin": {
     "value": "https://www.linkedin.com/in/nitish-kumar-a-462869145/",
+    "confidence": 1
+  },
+  
+  "GitHub": {
+    "value": "https://github.com/Nitishkumar-8",
     "confidence": 1
   },
   
